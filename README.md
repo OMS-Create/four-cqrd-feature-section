@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Four card feature section — desktop view](./screenshot.jpg)
+![Four card feature section Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://four-cqrd-feature-section.vercel.app/)
+- Live Site URL: [Live site URL](https://github.com/OMS-Create/four-cqrd-feature-section/)
 
 ---
 
